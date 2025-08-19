@@ -66,7 +66,8 @@ Tracks stock and roles in real time using Firebase, helping businesses maintain 
 ## 📅 GitHub Commit Calendar  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayush-gajjar/ayush-gajjar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Isometric Calendar" />
+  <img src="https://raw.githubusercontent.com/urvashibarana/urvashibarana/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+  
 </p>
 
 ---
